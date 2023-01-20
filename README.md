@@ -14,7 +14,7 @@ pip2 install mechanize
 
 pip2 install requests
 
-git clone https://github.com/DYNOCRACKEr/FB-VIP
+git clone https://github.com/Kaewankarzan/FB-VIP
 
 cd FB-VIP
 
